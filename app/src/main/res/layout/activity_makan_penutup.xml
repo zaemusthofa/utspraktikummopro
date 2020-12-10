@@ -15,7 +15,7 @@
         android:textAllCaps="false"
         android:background="#D65B5B"
         android:textColor="#ffff"
-        android:text="Resep 1" />
+        android:text="Durian fudge brownis" />
 
     <Button
         android:id="@+id/bt_resepmakan_pen2"
@@ -26,7 +26,7 @@
         android:textAllCaps="false"
         android:background="#D65B5B"
         android:textColor="#ffff"
-        android:text="Resep 2" />
+        android:text="Kue bugis kentang" />
 
     <Button
         android:id="@+id/bt_resepmakan_pen3"
@@ -37,7 +37,7 @@
         android:textAllCaps="false"
         android:background="#D65B5B"
         android:textColor="#ffff"
-        android:text="Resep 3" />
+        android:text="Cake strawberry kelapa" />
 
     <Button
         android:id="@+id/bt_resepmakan_pen4"
@@ -48,7 +48,7 @@
         android:textAllCaps="false"
         android:background="#D65B5B"
         android:textColor="#ffff"
-        android:text="Resep 4" />
+        android:text="Pudding served with popcorn" />
 
     <Button
         android:id="@+id/bt_resepmakan_pen5"
@@ -59,6 +59,6 @@
         android:textAllCaps="false"
         android:background="#D65B5B"
         android:textColor="#ffff"
-        android:text="Resep 5" />
+        android:text="Puding bobba thai tea" />
 
 </LinearLayout>
