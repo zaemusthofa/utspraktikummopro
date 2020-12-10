@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MinumTigaActivity"
+    >
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Es Green tea"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <ImageView
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="307dp"
+            android:src="@drawable/minum3"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Bahan:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 2 sdm bubuk green tea"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 1 cup susu cair full cream"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- gula pasir secukupnya"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 1 sdt sirup vanila"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- es batu secukupnya "
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Cara:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Siapkan blender, lalu masukkan bubuk green tea, susu cair, gula pasir, dan sirup vanila. Kemudian tutup blender dan proses hingga semua bahan tercampur rata."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 2.	Siapkan gelas, lalu isi dengan es batu. Tuangkan green tea ke dalam gelas. Tambahkan sedikit bubuk green tea sebagai topping supaya tampilannya lebih menarik."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 3.	Kalau suka manis, tambahkan sirup vanila secukupnya, lalu aduk-aduk hingga rata. Es green tea siap disajikan."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

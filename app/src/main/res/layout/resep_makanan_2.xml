@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MakanDuaActivity"
+    >
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Steak daging teriyaki"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <ImageView
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="307dp"
+            android:src="@drawable/makan2"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Bahan:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+                <TextView
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="- 200 gr Daging sapi has dalam, 4 potong"
+                    android:textSize="22dp"
+                    android:textColor="#000"
+                    />
+
+                <TextView
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="- 1 bks SAORI® Saus Teriyaki"
+                    android:textSize="22dp"
+                    android:textColor="#000"
+                    />
+
+                <TextView
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="- 3 sdm Minyak goreng"
+                    android:textSize="22dp"
+                    android:textColor="#000"
+                    />
+
+                <TextView
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="- 4 porsi Nasi putih"
+                    android:textSize="22dp"
+                    android:textColor="#000"
+                    />
+
+        <TextView
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Cara:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+                <TextView
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="- Pukul-pukul daging"
+                    android:textSize="22dp"
+                    android:textColor="#000"
+                    />
+
+                <TextView
+                    android:layout_marginTop="9dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="- Beri SAORI® Saus Teriyaki , diamkan 15-30 menit"
+                    android:textSize="22dp"
+                    android:textColor="#000"
+                    />
+
+                <TextView
+                    android:layout_marginTop="9dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="- Panaskan minyak goreng, panggang daging hingga matang dikedua sisi, angkat. Sajikan di atas nasi."
+                    android:textSize="22dp"
+                    android:textColor="#000"
+                    />
+
+    </LinearLayout>
+
+</ScrollView>

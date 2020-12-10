@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MinumEmpatActivity"
+    >
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Es thai tea"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <ImageView
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="307dp"
+            android:src="@drawable/minum4"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Bahan:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 6 sdm bubuk thai tea"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 1 liter air"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- gula pasir secukupnya"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- kental manis secukupnya"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- susu evaporasi secukupnya"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Cara:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Siapkan panci kecil, lalu masukkan air. Rebus hingga mendidih. Setelah mendidih, masukkan bubuk tahi tea. Tutup panci selama 1-2 menit supaya rasanya lebih meresap."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Siapkan wadah atau gelas, masukkan gula pasir dan kental manis. Saring bubuk thai tea, lalu tuang ke dalam campuran gula pasir dan kental manis."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Tambahkan susu evaporasi, lalu aduk-aduk hingga merata."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 4.	Siapkan beberapa gelas yang sudah diisi es batu. Tuangkan thai tea pada setiap gelas. Es thai tea siap disajikan."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_marginTop="33dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".MakananActivity">
+
+            <Button
+                android:id="@+id/bt_resepmakan1"
+                android:layout_gravity="center"
+                android:layout_width="246dp"
+                android:layout_height="72dp"
+                android:textAllCaps="false"
+                android:background="#D65B5B"
+                android:textColor="#ffff"
+                android:text="Nasi Goreng Saus Teriyaki" />
+
+            <Button
+                android:id="@+id/bt_resepmakan2"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+                android:layout_width="246dp"
+                android:layout_height="72dp"
+                android:textAllCaps="false"
+                android:background="#D65B5B"
+                android:textColor="#ffff"
+                android:text="Steak daging teriyaki" />
+
+            <Button
+                android:id="@+id/bt_resepmakan3"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+                android:layout_width="246dp"
+                android:layout_height="72dp"
+                android:textAllCaps="false"
+                android:background="#D65B5B"
+                android:textColor="#ffff"
+                android:text="Terong panggang teriyaki" />
+
+            <Button
+                android:id="@+id/bt_resepmakan4"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+                android:layout_width="246dp"
+                android:layout_height="72dp"
+                android:textAllCaps="false"
+                android:background="#D65B5B"
+                android:textColor="#ffff"
+                android:text="Tumis kangkung jamur merang" />
+
+            <Button
+                android:id="@+id/bt_resepmakan5"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+                android:layout_width="246dp"
+                android:layout_height="72dp"
+                android:textAllCaps="false"
+                android:background="#D65B5B"
+                android:textColor="#ffff"
+                android:text="Gurame renyah salad" />
+
+</LinearLayout>

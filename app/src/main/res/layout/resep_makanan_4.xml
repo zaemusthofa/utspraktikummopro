@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MakanEmpatActivity"
+    >
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Tumis kangkung jamur merang"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <ImageView
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="307dp"
+            android:src="@drawable/makan4"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Bahan:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 150 gr (3 ikat kecil) kangkung, bersihkan dan potong-potong"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 100 gr (10 bh) jamur merang, belah 4"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 1 bh tomat, buang bijinya dan iris memanjang"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Minyak untuk menumis"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 100 ml air"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Cara:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Tumis bawang merah dan bawang putih hingga harum."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Masukkan jamur merang, ebi, cabai merah, dan kangkung. Aduk sebentar."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Tuangkan air dan SAORI® Saus Tiram, lalu masukkan tomat. Tambahkan gula, garam, merica. Aduk hingga matang. Angkat dan sajikan."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+
+    </LinearLayout>
+</ScrollView>

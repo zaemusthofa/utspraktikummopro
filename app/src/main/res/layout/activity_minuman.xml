@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_marginTop="33dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".MinumanActivity">
+
+    <Button
+        android:id="@+id/bt_resepminum1"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Es Jeruk sirup melon" />
+
+    <Button
+        android:id="@+id/bt_resepminum2"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Es Jelly mangga" />
+
+    <Button
+        android:id="@+id/bt_resepminum3"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Es Green Tea" />
+
+    <Button
+        android:id="@+id/bt_resepminum4"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Es Thai Tea" />
+
+    <Button
+        android:id="@+id/bt_resepminum5"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Es Timun nata de coco" />
+
+</LinearLayout>

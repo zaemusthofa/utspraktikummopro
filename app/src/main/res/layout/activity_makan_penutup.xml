@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_marginTop="33dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".MakanPenutupActivity">
+
+    <Button
+        android:id="@+id/bt_resepmakan_pen1"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Resep 1" />
+
+    <Button
+        android:id="@+id/bt_resepmakan_pen2"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Resep 2" />
+
+    <Button
+        android:id="@+id/bt_resepmakan_pen3"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Resep 3" />
+
+    <Button
+        android:id="@+id/bt_resepmakan_pen4"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Resep 4" />
+
+    <Button
+        android:id="@+id/bt_resepmakan_pen5"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="246dp"
+        android:layout_height="72dp"
+        android:textAllCaps="false"
+        android:background="#D65B5B"
+        android:textColor="#ffff"
+        android:text="Resep 5" />
+
+</LinearLayout>

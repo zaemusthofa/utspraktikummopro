@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MakanLimaActivity"
+    >
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Gurame renyah salad"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <ImageView
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="307dp"
+            android:src="@drawable/makan5"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Bahan:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 1 ekor ikan gurame"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- 3 sdm air jeruk nipis"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Minyak goreng untuk menggoreng"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Masako® Rasa Ayam secukupnya"
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="9dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Cara:"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Bersihkan ikan gurame, cuci bagian kulitnya, lalu lumuri dengan air jeruk nipis dan Masako® Rasa Ayam, sisihkan."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Panaskan wajan, goreng ikan gurame sambil dibalik-balik sampai kering dan renyah, angkat dan tiriskan."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Saus mangga : campur mangga serut bersama cabai rawit, gula pasir dan Masako® ayam, aduk hingga rata. Simpan dalam lemari es."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:layout_marginTop="9dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="- Sajikan ikan gurame goreng dengan saus mangga."
+            android:textSize="22dp"
+            android:textColor="#000"
+            />
+
+
+    </LinearLayout>
+</ScrollView>
